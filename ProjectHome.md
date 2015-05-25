@@ -1,0 +1,1 @@
+The micro-calendar is a tool for schedules management and e-mails reminding with multi-mailbox ,which is based Sina SAE platform. It is an opened and free resource.
